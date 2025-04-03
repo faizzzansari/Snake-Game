@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
+
+body {
+    text-align: center;
+    background-color: #222;
+    color: #ffffff;
+    font-family: "Tektur", sans-serif;
+    font-size: 20px;
+}
+
+.gameContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+canvas{
+    border: 2px solid #ffffff;
+    background-color: #000000;
+    height: 400px;
+    width: 400px;
+}
+
+.scoreBoard{
+    position: absolute;
+    top: 20px;
+    right: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}

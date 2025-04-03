@@ -1,6 +1,3 @@
-# Snake-Game
-🐍 A simple Snake Game built using HTML, CSS, and JavaScript. The game features a growing snake, food items, and a score tracking system. It includes collision detection, keyboard controls, and a high score saving system. Play the game and challenge yourself! 🚀
-
 # 🐍 Snake Game
 
 A simple and fun **Snake Game** built using **HTML, CSS, and JavaScript**. The game is inspired by the classic snake game where the player controls the snake to eat food and grow while avoiding collisions with the walls and itself.
